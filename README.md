@@ -73,10 +73,9 @@ Store this token safely as it grants control over your bot. Do **not** share it 
      ```bash  
      cp .env.example .env  
      ```  
-   - Fill in the following details:  
+   - Do this next:  
      ```
-     BOT_TOKEN=your_telegram_bot_token  
-     MONGO_URI=your_mongodb_connection_string  
+     Now go to the link to join the telegram group http://t.me/sudnyeshBot  
      ```  
 
 4. **Run the Bot**:  
@@ -94,18 +93,7 @@ Store this token safely as it grants control over your bot. Do **not** share it 
    Learn tips about content creation by selecting this option in the menu.
 
 3. **Start the 21-Day Challenge**:  
-   Begin the challenge to share content daily. Submit content links and view counts, and track your growth.
-
----
-
-## Deployment
-
-### For Hosting Locally:  
-1. Follow the **Setup Instructions** mentioned above.  
-2. Ensure you have Python and MongoDB set up correctly.
-
-### For Cloud Deployment (Optional):  
-You can deploy this bot on cloud platforms like **Heroku**, **Google Cloud**, or **AWS**.  
+   Begin the challenge to share content daily. Submit content links and view counts, and track your growth.  
 
 
 ---
